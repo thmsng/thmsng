@@ -2,7 +2,6 @@
 
 ### I love data analysis and data visualization 😄
 - 🔭 I’m currently learning **Tableau**, **Python** and **SQL**
-- ⌛ I’m currently working on making an  [Ecommerce dashboard & analysis](<img/> "Link will me updated soon")
 - 💬 I would love to chat with you about data science and project management
 - 📫 Reach me at: ntthang123@gmail.com or [<img src="https://img.icons8.com/officexs/25/000000/linkedin.png"/>](https://www.linkedin.com/in/tmsnguyn/)
 
